@@ -74,9 +74,6 @@ This project helped me practice:
 * Add different vehicle types
 * Store parking data permanently
 * Add a graphical user interface
-
-## 👩‍💻 Author
-
-**Siddhi Deshmukh**
+  
 
 
